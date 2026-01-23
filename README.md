@@ -13,6 +13,7 @@ and variant analysis.
 - scRNA-seq PBMC Analysis
 - Rare Disease Whole Exome Sequencing
 - Human RNA-seq Analysis
+- Human Variant Calling analysis
 
 These projects demonstrate biological data interpretation and analysis skills.
 
