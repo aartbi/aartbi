@@ -30,6 +30,7 @@ These projects demonstrate workflow automation and pipeline design.
 ## 🔁 Nextflow Workflow Projects
 
 - Reproducible RNA-seq QC Pipeline (Conda vs Docker ready)
+https://github.com/aartbi/reproducible-rnaseq-qc-nextflow
 - End-to-End RNA-seq Pipeline using Nextflow (Salmon, DESeq2) *(in progress)*
 
 These projects demonstrate workflow orchestration and reproducibility.
