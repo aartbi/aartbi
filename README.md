@@ -1,36 +1,50 @@
 ## 👋 Hi, I'm Aarthi
-
-🎓 Bioinformatics & Genomics  
-🧬 Variant Calling | RNA-seq | Metagenomics | Workflow Engineering  
 🎯 Aspiring Bioinformatics Engineer
 
----
-
-## 🔬 Featured Projects
-
-- 🧪 **Rare Disease WES Pipeline**  
-  Clinical variant filtering and prioritization using ClinVar  
-  👉 https://github.com/aartbi/Rare_Disease_WES
-
-- 🧬 **RNA-seq QC Pipeline**  
-  Production-style FastQC + MultiQC workflow  
-  👉 https://github.com/aartbi/rnaseq-qc-pipeline
-
-- 🌱 **Metagenomics Analysis**  
-  Taxonomic profiling and interpretation  
-  👉 https://github.com/aartbi/crc-metagenomics-analysis
+🎓 I build reproducible bioinformatics pipelines using modern workflow tools
+such as Nextflow, Conda, and Docker, with a focus on RNA-seq, metagenomics,
+and variant analysis.
 
 ---
 
-## 🛠️ Technical Skills
+## 🔬 Bioinformatics Analysis Projects
 
-- **Languages**: Bash, Python
-- **NGS**: WES, RNA-seq, Metagenomics
-- **Tools**: bcftools, FastQC, MultiQC, seqkit
-- **Workflow**: Conda, reproducibility, pipeline design
-- **Platforms**: Linux, GitHub, VS Code
+- CRC Metagenomics Analysis
+- scRNA-seq PBMC Analysis
+- Rare Disease Whole Exome Sequencing
+- Human RNA-seq Analysis
+
+These projects demonstrate biological data interpretation and analysis skills.
 
 ---
+
+## ⚙️ Pipeline & Automation Projects
+
+- Metadata-driven QC Pipeline
+- RNA-seq QC Pipeline (FastQC + MultiQC)
+
+These projects demonstrate workflow automation and pipeline design.
+
+---
+
+## 🔁 Nextflow Workflow Projects
+
+- Reproducible RNA-seq QC Pipeline (Conda vs Docker ready)
+- End-to-End RNA-seq Pipeline using Nextflow (Salmon, DESeq2) *(in progress)*
+
+These projects demonstrate workflow orchestration and reproducibility.
+
+---
+
+## ☁️ Cloud Bioinformatics (Upcoming)
+
+Pipelines designed to run on AWS using S3, EC2, and Docker containers.
+
+---
+
+## Tools & Technologies
+
+Nextflow • FastQC • MultiQC • Salmon • DESeq2 • Python • Conda • Docker • Git • Linux
 
 ## 📈 What I Care About
 
