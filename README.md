@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Aarthi
+## 👋 Hi, I'm Aarthi R
 🎯 Aspiring Bioinformatics Engineer
 
 🎓 I build reproducible bioinformatics pipelines using modern workflow tools
