@@ -10,9 +10,12 @@ and variant analysis.
 ## 🔬 Bioinformatics Analysis Projects
 
 - CRC Metagenomics Analysis
+- https://github.com/aartbi/crc-metagenomics-analysis
 - scRNA-seq PBMC Analysis
 - Rare Disease Whole Exome Sequencing
+- https://github.com/aartbi/Rare_Disease_WES
 - Human RNA-seq Analysis
+- https://github.com/aartbi/variant-calling-human-analysis
 
 These projects demonstrate biological data interpretation and analysis skills.
 
@@ -22,6 +25,7 @@ These projects demonstrate biological data interpretation and analysis skills.
 
 - Metadata-driven QC Pipeline
 - RNA-seq QC Pipeline (FastQC + MultiQC)
+- https://github.com/aartbi/rnaseq-qc-pipeline
 
 These projects demonstrate workflow automation and pipeline design.
 
@@ -30,7 +34,7 @@ These projects demonstrate workflow automation and pipeline design.
 ## 🔁 Nextflow Workflow Projects
 
 - Reproducible RNA-seq QC Pipeline (Conda vs Docker ready)
-https://github.com/aartbi/reproducible-rnaseq-qc-nextflow
+- https://github.com/aartbi/reproducible-rnaseq-qc-nextflow
 - End-to-End RNA-seq Pipeline using Nextflow (Salmon, DESeq2) *(in progress)*
 
 These projects demonstrate workflow orchestration and reproducibility.
