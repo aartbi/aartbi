@@ -16,10 +16,6 @@ and variant analysis.
 - Human Variant Calling analysis
 
 These projects demonstrate biological data interpretation and analysis skills.
-
----
-These projects demonstrate workflow automation and pipeline design.
-
 ---
 ## Tools & Technologies
 
