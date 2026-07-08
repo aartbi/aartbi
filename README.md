@@ -1,8 +1,7 @@
 ## 👋 Hi, I'm Aarthi R
 🎯 Aspiring Bioinformatics Engineer
 
-🎓 I build reproducible bioinformatics pipelines using modern workflow tools
-such as Nextflow, Conda, and Docker, with a focus on RNA-seq, metagenomics,
+🎓 I build reproducible bioinformatics pipelines with a focus on RNA-seq, metagenomics,
 and variant analysis.
 
 ---
