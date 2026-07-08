@@ -13,12 +13,10 @@ and variant analysis.
 - Rare Disease Whole Exome Sequencing
 - Human RNA-seq Analysis
 - Human Variant Calling analysis
-
-These projects demonstrate biological data interpretation and analysis skills.
 ---
 ## Tools & Technologies
 
-Nextflow • FastQC • MultiQC • Salmon • DESeq2 • Python • Conda • Docker • Git • Linux
+FastQC • MultiQC • Salmon • DESeq2 • Python • Conda • Git • Linux
 
 ## 📈 What I Care About
 
