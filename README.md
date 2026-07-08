@@ -18,31 +18,9 @@ and variant analysis.
 These projects demonstrate biological data interpretation and analysis skills.
 
 ---
-
-## ⚙️ Pipeline & Automation Projects
-
-- Metadata-driven QC Pipeline
-- RNA-seq QC Pipeline (FastQC + MultiQC)
-
 These projects demonstrate workflow automation and pipeline design.
 
 ---
-
-## 🔁 Nextflow Workflow Projects
-
-- Reproducible RNA-seq QC Pipeline (Conda vs Docker ready)
-- End-to-End RNA-seq Pipeline using Nextflow (Salmon, DESeq2) *(in progress)*
-
-These projects demonstrate workflow orchestration and reproducibility.
-
----
-
-## ☁️ Cloud Bioinformatics (Upcoming)
-
-Pipelines designed to run on AWS using S3, EC2, and Docker containers.
-
----
-
 ## Tools & Technologies
 
 Nextflow • FastQC • MultiQC • Salmon • DESeq2 • Python • Conda • Docker • Git • Linux
