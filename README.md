@@ -9,7 +9,6 @@ and variant analysis.
 ## 🔬 Bioinformatics Analysis Projects
 
 - CRC Metagenomics Analysis
-- scRNA-seq PBMC Analysis
 - Rare Disease Whole Exome Sequencing
 - Human RNA-seq Analysis
 - Human Variant Calling analysis
