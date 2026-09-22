@@ -1,21 +1,14 @@
 ## 👋 Hi, I'm Aarthi R
 🎯 Aspiring Bioinformatics Engineer
-
-🎓 I build reproducible bioinformatics pipelines with a focus on RNA-seq, metagenomics,
-and variant analysis.
-
 ---
 
 ## 🔬 Bioinformatics Analysis Projects
 
 - CRC Metagenomics Analysis
-- Rare Disease Whole Exome Sequencing
-- Human RNA-seq Analysis
-- Human Variant Calling analysis
----
+
 ## Tools & Technologies
 
-FastQC • MultiQC • Salmon • DESeq2 • Python • Conda • Git • Linux
+FastQC • MultiQC • Kraken2 • R • Python • Conda • Git • Linux
 
 ## 📈 What I Care About
 
