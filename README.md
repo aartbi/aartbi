@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Aarthi R
 🎯 Aspiring Bioinformatics Engineer
+
 ---
 
 ## 🔬 Bioinformatics Analysis Projects
